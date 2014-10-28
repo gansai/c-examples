@@ -3,6 +3,7 @@
 #define NUM_ROWS 3
 #define NUM_COLS 2
 int main(void) {
+	// refer to http://stackoverflow.com/questions/917783/how-do-i-work-with-dynamic-multi-dimensional-arrays-in-c
 	// your code goes here
 	// 3 rows x 2 column 2-D int array, non-contiguous
 	// allocate memory for each row starting element
